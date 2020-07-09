@@ -1,0 +1,8 @@
+Think of it as a matrix:
+
+	B	G
+B	BB	GB
+G	BG	GG
+
+So, probability = BB/{BB,GB,BG}
+		= 1/3
